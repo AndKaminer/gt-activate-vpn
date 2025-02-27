@@ -11,6 +11,6 @@ setuptools.setup(
         install_requires=install_requires,
         entry_points={
             "console_scripts": [
-                "activate_vpn = activate_vpn:main"],
+                "activate_vpn = activate_vpn.activate_vpn:main"],
         },
         include_package_data=True)
