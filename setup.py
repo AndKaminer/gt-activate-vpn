@@ -1,5 +1,3 @@
-#!/bin/bash
-
 import setuptools
 
 install_requires = ['pexpect']
